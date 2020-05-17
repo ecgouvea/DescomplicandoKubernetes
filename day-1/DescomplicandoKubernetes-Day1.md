@@ -203,7 +203,7 @@ Ou:
 
 ## Instalação do Minikube no Microsoft Windows
 
-No Microsoft Windows, você deve executar o comando `systeminfo` no prompt de comando ou no terminal. Caso você visualize a saída similar com a abaixo é sinal que virtualização é suportada:
+No Microsoft Windows, você deve executar o comando `systeminfo` no prompt de comando ou no terminal. Caso você visualize a saída similar como a abaixo é sinal que virtualização é suportada:
 
 ```textile
 Hyper-V Requirements:     VM Monitor Mode Extensions: Yes
